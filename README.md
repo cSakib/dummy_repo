@@ -1,3 +1,2 @@
 # dummy_repo
-
-# Some descriptions!
+# New descriptions.
