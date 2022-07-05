@@ -1,5 +1,5 @@
-# dummy_repo
-# New descriptions.
-# First line of the description.
+#dummy repo
 
-#I prefer a good book over video tutorials.
+#Don't bother reading this.
+
+#Playing with git and github
